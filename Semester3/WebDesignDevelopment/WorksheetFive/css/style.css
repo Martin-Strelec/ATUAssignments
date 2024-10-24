@@ -1,0 +1,196 @@
+html,
+body {
+    text-align: center;
+    width: 960px;
+    margin: 0 auto;
+    padding: 0;
+    font-size: 100%;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+
+article:hover {
+    background-color: gainsboro;
+}
+
+.description p {
+    text-align: justify;
+    margin: 0 2rem
+}
+
+.description img {
+    width: 30rem;
+    margin: 2rem;
+    border-radius: 0.5rem;
+}
+
+.tag-container {
+    width: 18rem;
+    height: 16rem;
+    display: inline-block;
+    margin: 1rem 0.5rem 0.5rem 0.5rem;
+}
+
+.tag-container a {
+    text-decoration: none;
+    color: black;
+}
+
+.club {
+    width: 18rem;
+    height: 16rem;
+    vertical-align: top;
+    display: inline-block;
+    border-radius: 1rem 2rem 2rem 2rem;
+    background-color: rgb(234, 234, 234);
+}
+
+.club h2 {
+    margin: 1.5rem;
+    border-left: 1rem solid #333;
+}
+
+.club img {
+    float: left;
+    margin: 0.5rem 1.5rem 1.5rem 0.75rem;
+    border-radius: 1rem;
+}
+
+.club p {
+    margin: 0.5rem 0.75rem 0 0.75rem;
+    text-align: left;
+}
+
+#full {
+    color: red;
+    font-weight: 800;
+}
+
+/*Start of hamburger menu*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: black;
+}
+
+#hamnav {
+    text-align: left;
+    width: 100%;
+}
+
+#hamitems {
+    display: flex;
+}
+
+#hamitems li {
+    margin: 0.75rem;
+    float: left;
+}
+
+#hamitems a {
+    flex-grow: 1;
+    flex-basis: 0;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+
+#hamitems a:hover {
+    background: #af0d0d;
+}
+
+#hamnav label,
+#hamburger {
+    display: none;
+}
+/*End of hamburger menu*/
+
+@media (max-width: 768px) {
+
+    /*Start of hamburger menu*/
+    #hamitems a {
+        text-align: left;
+        box-sizing: border-box;
+        display: block;
+    }
+
+    #hamitems li {
+        width: 100%;
+    }
+
+    #hamnav label {
+        display: inline-block;
+        color: white;
+        background: black;
+        font-style: normal;
+        font-size: 2rem;
+        padding: 10px;
+    }
+
+    #hamitems {
+        display: none;
+    }
+
+    #hamnav input:checked~#hamitems {
+        display: block;
+    }
+    /*End of hamburger menu*/
+
+    body {
+        font-size: 1.25rem;
+        width: 100%;
+        background-color: green;
+    }
+
+    .club {
+        width: 20rem;
+        height: 18rem;
+    }
+
+    .tag-container {
+        width: 20rem;
+        height: 18rem;
+    }
+}
+
+@media (max-width: 576px) {
+    body {
+        font-size: 1.6rem;
+        width: 100%;
+        background-color: red;
+    }
+
+    .club {
+        width: 30rem;
+        height: 18rem;
+    }
+
+    .tag-container {
+        width: 30rem;
+        height: 18rem;
+    }
+}
+
+@media (max-width: 320px) {
+    body {
+        font-size: 2rem;
+        width: 100%;
+        background-color: blue;
+    }
+
+    .club {
+        width: 30rem;
+        height: 20rem;
+    }
+
+    .tag-container {
+        width: 30rem;
+        height: 20rem;
+    }
+}

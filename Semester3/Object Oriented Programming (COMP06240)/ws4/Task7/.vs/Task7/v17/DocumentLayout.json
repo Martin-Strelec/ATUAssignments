@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jemand\\Documents\\ATU\\ATUResources\\Semester3\\Object Oriented Programming (COMP06240)\\ws4\\Task7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A885FD-E09A-4D05-BEBE-C5F5D1934AA7}|Task7.csproj|c:\\users\\jemand\\documents\\atu\\aturesources\\semester3\\object oriented programming (comp06240)\\ws4\\task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A885FD-E09A-4D05-BEBE-C5F5D1934AA7}|Task7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A885FD-E09A-4D05-BEBE-C5F5D1934AA7}|Task7.csproj|c:\\users\\jemand\\documents\\atu\\aturesources\\semester3\\object oriented programming (comp06240)\\ws4\\task7\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A885FD-E09A-4D05-BEBE-C5F5D1934AA7}|Task7.csproj|solutionrelative:school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A885FD-E09A-4D05-BEBE-C5F5D1934AA7}|Task7.csproj|c:\\users\\jemand\\documents\\atu\\aturesources\\semester3\\object oriented programming (comp06240)\\ws4\\task7\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A885FD-E09A-4D05-BEBE-C5F5D1934AA7}|Task7.csproj|solutionrelative:validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Validation.cs",
+              "DocumentMoniker": "C:\\Users\\Jemand\\Documents\\ATU\\ATUResources\\Semester3\\Object Oriented Programming (COMP06240)\\ws4\\Task7\\Validation.cs",
+              "RelativeDocumentMoniker": "Validation.cs",
+              "ToolTip": "C:\\Users\\Jemand\\Documents\\ATU\\ATUResources\\Semester3\\Object Oriented Programming (COMP06240)\\ws4\\Task7\\Validation.cs",
+              "RelativeToolTip": "Validation.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAwwAEBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:27:34.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "School.cs",
+              "DocumentMoniker": "C:\\Users\\Jemand\\Documents\\ATU\\ATUResources\\Semester3\\Object Oriented Programming (COMP06240)\\ws4\\Task7\\School.cs",
+              "RelativeDocumentMoniker": "School.cs",
+              "ToolTip": "C:\\Users\\Jemand\\Documents\\ATU\\ATUResources\\Semester3\\Object Oriented Programming (COMP06240)\\ws4\\Task7\\School.cs",
+              "RelativeToolTip": "School.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:26:15.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jemand\\Documents\\ATU\\ATUResources\\Semester3\\Object Oriented Programming (COMP06240)\\ws4\\Task7\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Jemand\\Documents\\ATU\\ATUResources\\Semester3\\Object Oriented Programming (COMP06240)\\ws4\\Task7\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:22:15.953Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
