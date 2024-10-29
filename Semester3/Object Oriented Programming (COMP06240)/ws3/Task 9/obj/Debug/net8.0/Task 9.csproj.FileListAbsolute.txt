@@ -1,0 +1,14 @@
+C:\Users\Jemand\Documents\ATU\ATUResources\Semester3\Object Oriented Programming (COMP06240)\ws3\Task 9\bin\Debug\net8.0\Task 9.exe
+C:\Users\Jemand\Documents\ATU\ATUResources\Semester3\Object Oriented Programming (COMP06240)\ws3\Task 9\bin\Debug\net8.0\Task 9.deps.json
+C:\Users\Jemand\Documents\ATU\ATUResources\Semester3\Object Oriented Programming (COMP06240)\ws3\Task 9\bin\Debug\net8.0\Task 9.runtimeconfig.json
+C:\Users\Jemand\Documents\ATU\ATUResources\Semester3\Object Oriented Programming (COMP06240)\ws3\Task 9\bin\Debug\net8.0\Task 9.dll
+C:\Users\Jemand\Documents\ATU\ATUResources\Semester3\Object Oriented Programming (COMP06240)\ws3\Task 9\bin\Debug\net8.0\Task 9.pdb
+C:\Users\Jemand\Documents\ATU\ATUResources\Semester3\Object Oriented Programming (COMP06240)\ws3\Task 9\obj\Debug\net8.0\Task 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jemand\Documents\ATU\ATUResources\Semester3\Object Oriented Programming (COMP06240)\ws3\Task 9\obj\Debug\net8.0\Task 9.AssemblyInfoInputs.cache
+C:\Users\Jemand\Documents\ATU\ATUResources\Semester3\Object Oriented Programming (COMP06240)\ws3\Task 9\obj\Debug\net8.0\Task 9.AssemblyInfo.cs
+C:\Users\Jemand\Documents\ATU\ATUResources\Semester3\Object Oriented Programming (COMP06240)\ws3\Task 9\obj\Debug\net8.0\Task 9.csproj.CoreCompileInputs.cache
+C:\Users\Jemand\Documents\ATU\ATUResources\Semester3\Object Oriented Programming (COMP06240)\ws3\Task 9\obj\Debug\net8.0\Task 9.dll
+C:\Users\Jemand\Documents\ATU\ATUResources\Semester3\Object Oriented Programming (COMP06240)\ws3\Task 9\obj\Debug\net8.0\refint\Task 9.dll
+C:\Users\Jemand\Documents\ATU\ATUResources\Semester3\Object Oriented Programming (COMP06240)\ws3\Task 9\obj\Debug\net8.0\Task 9.pdb
+C:\Users\Jemand\Documents\ATU\ATUResources\Semester3\Object Oriented Programming (COMP06240)\ws3\Task 9\obj\Debug\net8.0\Task 9.genruntimeconfig.cache
+C:\Users\Jemand\Documents\ATU\ATUResources\Semester3\Object Oriented Programming (COMP06240)\ws3\Task 9\obj\Debug\net8.0\ref\Task 9.dll

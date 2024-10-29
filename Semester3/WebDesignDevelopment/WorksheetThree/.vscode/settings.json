@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "test.sln",
+    "liveServer.settings.port": 5501
+}
