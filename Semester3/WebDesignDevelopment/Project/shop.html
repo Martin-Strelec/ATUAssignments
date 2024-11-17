@@ -12,8 +12,9 @@
 </head>
 
 <body>
+    <!--Navbar-->
     <nav class="navbar navbar-expand-md bg-body-tertiary">
-        <div class="container-fluid d-flex">
+        <div class="container-md d-flex">
             <div class="order-lg-1 order-md-2 d-flex">
                 <button class="navbar-toggler mx-2" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                     aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -41,16 +42,16 @@
             <div class="collapse navbar-collapse justify-content-end order-md-2" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link" href="index.html">Home</a>
+                        <a class="nav-link " aria-current="index page" href="index.html">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="shop page" href="#">Shop</a>
+                        <a class="nav-link active" href="#">Shop</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link"  href="aboutus.html">About</a>
+                        <a class="nav-link" href="aboutus.html">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" aria-current="contact page" href="contact.html" >Contact</a>
+                        <a class="nav-link" href="contact.html">Contact</a>
                     </li>
                     <!-- Just as a reminder
                     <li class="nav-item">
@@ -61,6 +62,34 @@
             </div>
         </div>
     </nav>
+    <div container class="my-5">
+        <div class="row gap-3 justify-content-center">
+            <!--Main heading-->
+            <div class="col-4">
+                <h1 class="text-center fw-light">Ready to Order?</h1>
+                <p class="text-center fw-light fs-5 muted"> Explore Top Picks Near You!</p>
+            </div>
+
+            <!--Search Bar-->
+            <div class="col-9">
+                <label for="searchBar">Enter your address:</label>
+                <form class="d-flex border rounded-pill" role="search" id="searchBar">
+                    <input class="form-control me-2 border-0 rounded-pill" type="search" aria-label="Search">
+                    <button class="btn btn-outline-success rounded-pill" type="submit">Search</button>
+                </form>
+            </div>
+        </div>
+
+    </div>
+
+
+    <!--Content-->
+    <div class="container">
+        <div class="row gap-3 align-items-center justify-content-center" id="shopDisplay">
+        </div>
+    </div>
+
+    <!--Footer-->
     <footer class="py-3 my-4">
         <ul class="nav justify-content-center border-bottom pb-3 mb-3">
             <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Home</a></li>
@@ -71,6 +100,7 @@
         </ul>
         <p class="text-center text-muted">© 2024 Company, Inc</p>
     </footer>
+    <script src="./js/sript.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
         crossorigin="anonymous"></script>

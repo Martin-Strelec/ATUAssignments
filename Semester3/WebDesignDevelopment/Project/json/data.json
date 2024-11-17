@@ -1,0 +1,60 @@
+{
+    "items": [
+        {
+            "establishmentName": "Seaside Bistro",
+            "establishmentType": "Restaurant",
+            "location": "Sligo",
+            "foodType": "Seafood",
+            "deliveryHours": "12:00 PM - 9:00 PM",
+            "openingHours": "10:00 AM - 10:00 PM",
+            "description": "Enjoy fresh seafood with a stunning view of the coastline.",
+            "banner": "./images/banners/seasideBistro.jpg",
+            "tags": ["seafood", "coastal", "dining"],
+            "menu": []
+        },
+        {
+            "establishmentName": "Mountain Grill",
+            "establishmentType": "Restaurant",
+            "location": "Donegal",
+            "foodType": "Grill",
+            "deliveryHours": "11:00 AM - 8:00 PM",
+            "openingHours": "10:00 AM - 9:00 PM",
+            "description": "A rustic spot serving grilled steaks and local specialties.",
+            "banner": "./images/banners/mountainGrill.jpg",
+            "tags": ["grill", "steak", "mountain view"]
+        },
+        {
+            "establishmentName": "Herb & Spice Cafe",
+            "establishmentType": "Cafe",
+            "location": "Sligo",
+            "foodType": "Mediterranean",
+            "deliveryHours": "9:00 AM - 7:00 PM",
+            "openingHours": "8:00 AM - 8:00 PM",
+            "description": "A cozy cafe serving Mediterranean-inspired dishes and beverages.",
+            "banner": "./images/banners/herbsAndSpiceCafe.jpg",
+            "tags": ["mediterranean", "cafe", "healthy"]
+        },
+        {
+            "establishmentName": "The Irish Pub",
+            "establishmentType": "Pub",
+            "location": "Donegal",
+            "foodType": "Irish",
+            "deliveryHours": "4:00 PM - 11:00 PM",
+            "openingHours": "12:00 PM - 12:00 AM",
+            "description": "A traditional pub serving hearty Irish meals and drinks.",
+            "banner": "./images/banners/irishPub.jpg",
+            "tags": ["irish", "pub food", "drinks"]
+        },
+        {
+            "establishmentName": "Taste of India",
+            "establishmentType": "Restaurant",
+            "location": "Sligo",
+            "foodType": "Indian",
+            "deliveryHours": "12:00 PM - 10:00 PM",
+            "openingHours": "11:00 AM - 11:00 PM",
+            "description": "Authentic Indian cuisine with a variety of vegetarian and non-vegetarian options.",
+            "banner": "./images/banners/tasteOfIndia.jpg",
+            "tags": ["indian", "spicy", "vegetarian"]
+        }
+    ]  
+}
