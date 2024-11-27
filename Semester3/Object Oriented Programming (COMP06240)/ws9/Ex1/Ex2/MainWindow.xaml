@@ -1,0 +1,22 @@
+﻿<Window x:Class="Ex2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ex2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        Loaded="Window_Loaded">
+    <Grid x:Name="Default">
+        <ListBox x:Name="ldxMembers" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="70,123,471,123"/>
+        <TextBlock x:Name="tbkNoOfMembers" HorizontalAlignment="Left" Margin="70,375,0,0" TextWrapping="Wrap" Text="Number of Members: " VerticalAlignment="Top" Width="254" FontSize="20"/>
+        <ComboBox x:Name="cmx" HorizontalAlignment="Left" Margin="615,123,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="tbxName" HorizontalAlignment="Left" Margin="615,166,0,0" TextWrapping="Wrap" Text="Enter Name" VerticalAlignment="Top" Width="120" GotFocus="tbx_GotFocus"/>
+        <DatePicker x:Name="dtpck" HorizontalAlignment="Left" Margin="615,217,0,0" VerticalAlignment="Top" Width="120" SelectedDateFormat="Long"/>
+        <Button x:Name="btnAddMember" Content="Add Member" HorizontalAlignment="Left" Margin="638,271,0,0" VerticalAlignment="Top" Width="97" Click="btnAddMember_Click"/>
+        <TextBlock x:Name="MemberTypeLabel" HorizontalAlignment="Left" Margin="486,126,0,0" TextWrapping="Wrap" Text="Member Type:" VerticalAlignment="Top" RenderTransformOrigin="0.899,0.677"/>
+        <TextBlock x:Name="NameLabel" HorizontalAlignment="Left" Margin="530,167,0,0" TextWrapping="Wrap" Text="Name:" VerticalAlignment="Top"/>
+        <TextBlock x:Name="DateJoinedLabel" HorizontalAlignment="Left" Margin="499,221,0,0" TextWrapping="Wrap" Text="Date Joined: " VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
