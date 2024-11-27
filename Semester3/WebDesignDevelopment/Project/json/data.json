@@ -2,6 +2,7 @@
     "items": [
         {
             "establishmentName": "Seaside Bistro",
+            "establishmentIdentifier": "seasideBistro",
             "establishmentType": "Restaurant",
             "location": "Sligo",
             "foodType": "Seafood",
@@ -9,11 +10,65 @@
             "openingHours": "10:00 AM - 10:00 PM",
             "description": "Enjoy fresh seafood with a stunning view of the coastline.",
             "banner": "./images/banners/seasideBistro.jpg",
-            "tags": ["seafood", "coastal", "dining"],
-            "menu": []
+            "tags": [
+                "seafood",
+                "coastal",
+                "dining"
+            ],
+            "menu": [
+                {
+                    "starters": [
+                        {
+                            "Type": "Fish",
+                            "Price": "10.5"
+                        },
+                        {
+                            "Type": "Oysters",
+                            "Price": "12.5"
+                        },
+                        {
+                            "Type": "Roasted Squid",
+                            "Price": "15.5"
+                        }
+                    ]
+                },
+                {
+                    "sides": [
+                        {
+                            "Type": "Chips",
+                            "Price": "5"
+                        },
+                        {
+                            "Type": "Potatoes",
+                            "Price": "3"
+                        },
+                        {
+                            "Type": "Rice",
+                            "Price": "4"
+                        }
+                    ]
+                },
+                {
+                    "drinks": [
+                        {
+                            "Type":"Water",
+                            "Price": "free"
+                        },
+                        {
+                            "Type":"Coke",
+                            "Price": "3.5"
+                        },
+                        {
+                            "Type":"Fanta",
+                            "Price": "3.5"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "establishmentName": "Mountain Grill",
+            "establishmentIdentifier": "mountainGrill",
             "establishmentType": "Restaurant",
             "location": "Donegal",
             "foodType": "Grill",
@@ -21,10 +76,65 @@
             "openingHours": "10:00 AM - 9:00 PM",
             "description": "A rustic spot serving grilled steaks and local specialties.",
             "banner": "./images/banners/mountainGrill.jpg",
-            "tags": ["grill", "steak", "mountain view"]
+            "tags": [
+                "grill",
+                "steak",
+                "mountain view"
+            ],
+            "menu": [
+                {
+                    "starters": [
+                        {
+                            "Type": "Fish",
+                            "Price": "10.5"
+                        },
+                        {
+                            "Type": "Oysters",
+                            "Price": "12.5"
+                        },
+                        {
+                            "Type": "Roasted Squid",
+                            "Price": "15.5"
+                        }
+                    ]
+                },
+                {
+                    "sides": [
+                        {
+                            "Type": "Chips",
+                            "Price": "5"
+                        },
+                        {
+                            "Type": "Potatoes",
+                            "Price": "3"
+                        },
+                        {
+                            "Type": "Rice",
+                            "Price": "4"
+                        }
+                    ]
+                },
+                {
+                    "drinks": [
+                        {
+                            "Type":"Water",
+                            "Price": "free"
+                        },
+                        {
+                            "Type":"Coke",
+                            "Price": "3.5"
+                        },
+                        {
+                            "Type":"Fanta",
+                            "Price": "3.5"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "establishmentName": "Herb & Spice Cafe",
+            "establishmentIdentifier": "herbSpiceCafe",
             "establishmentType": "Cafe",
             "location": "Sligo",
             "foodType": "Mediterranean",
@@ -32,10 +142,65 @@
             "openingHours": "8:00 AM - 8:00 PM",
             "description": "A cozy cafe serving Mediterranean-inspired dishes and beverages.",
             "banner": "./images/banners/herbsAndSpiceCafe.jpg",
-            "tags": ["mediterranean", "cafe", "healthy"]
+            "tags": [
+                "mediterranean",
+                "cafe",
+                "healthy"
+            ],
+            "menu": [
+                {
+                    "starters": [
+                        {
+                            "Type": "Fish",
+                            "Price": "10.5"
+                        },
+                        {
+                            "Type": "Oysters",
+                            "Price": "12.5"
+                        },
+                        {
+                            "Type": "Roasted Squid",
+                            "Price": "15.5"
+                        }
+                    ]
+                },
+                {
+                    "sides": [
+                        {
+                            "Type": "Chips",
+                            "Price": "5"
+                        },
+                        {
+                            "Type": "Potatoes",
+                            "Price": "3"
+                        },
+                        {
+                            "Type": "Rice",
+                            "Price": "4"
+                        }
+                    ]
+                },
+                {
+                    "drinks": [
+                        {
+                            "Type":"Water",
+                            "Price": "free"
+                        },
+                        {
+                            "Type":"Coke",
+                            "Price": "3.5"
+                        },
+                        {
+                            "Type":"Fanta",
+                            "Price": "3.5"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "establishmentName": "The Irish Pub",
+            "establishmentIdentifier": "theIrishPub",
             "establishmentType": "Pub",
             "location": "Donegal",
             "foodType": "Irish",
@@ -43,10 +208,65 @@
             "openingHours": "12:00 PM - 12:00 AM",
             "description": "A traditional pub serving hearty Irish meals and drinks.",
             "banner": "./images/banners/irishPub.jpg",
-            "tags": ["irish", "pub food", "drinks"]
+            "tags": [
+                "irish",
+                "pub food",
+                "drinks"
+            ],
+            "menu": [
+                {
+                    "starters": [
+                        {
+                            "Type": "Fish",
+                            "Price": "10.5"
+                        },
+                        {
+                            "Type": "Oysters",
+                            "Price": "12.5"
+                        },
+                        {
+                            "Type": "Roasted Squid",
+                            "Price": "15.5"
+                        }
+                    ]
+                },
+                {
+                    "sides": [
+                        {
+                            "Type": "Chips",
+                            "Price": "5"
+                        },
+                        {
+                            "Type": "Potatoes",
+                            "Price": "3"
+                        },
+                        {
+                            "Type": "Rice",
+                            "Price": "4"
+                        }
+                    ]
+                },
+                {
+                    "drinks": [
+                        {
+                            "Type":"Water",
+                            "Price": "free"
+                        },
+                        {
+                            "Type":"Coke",
+                            "Price": "3.5"
+                        },
+                        {
+                            "Type":"Fanta",
+                            "Price": "3.5"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "establishmentName": "Taste of India",
+            "establishmentIdentifier": "tasteOfIndia",
             "establishmentType": "Restaurant",
             "location": "Sligo",
             "foodType": "Indian",
@@ -54,7 +274,61 @@
             "openingHours": "11:00 AM - 11:00 PM",
             "description": "Authentic Indian cuisine with a variety of vegetarian and non-vegetarian options.",
             "banner": "./images/banners/tasteOfIndia.jpg",
-            "tags": ["indian", "spicy", "vegetarian"]
+            "tags": [
+                "indian",
+                "spicy",
+                "vegetarian"
+            ],
+            "menu": [
+                {
+                    "starters": [
+                        {
+                            "Type": "Fish",
+                            "Price": "10.5"
+                        },
+                        {
+                            "Type": "Oysters",
+                            "Price": "12.5"
+                        },
+                        {
+                            "Type": "Roasted Squid",
+                            "Price": "15.5"
+                        }
+                    ]
+                },
+                {
+                    "sides": [
+                        {
+                            "Type": "Chips",
+                            "Price": "5"
+                        },
+                        {
+                            "Type": "Potatoes",
+                            "Price": "3"
+                        },
+                        {
+                            "Type": "Rice",
+                            "Price": "4"
+                        }
+                    ]
+                },
+                {
+                    "drinks": [
+                        {
+                            "Type":"Water",
+                            "Price": "free"
+                        },
+                        {
+                            "Type":"Coke",
+                            "Price": "3.5"
+                        },
+                        {
+                            "Type":"Fanta",
+                            "Price": "3.5"
+                        }
+                    ]
+                }
+            ]
         }
-    ]  
+    ]
 }
