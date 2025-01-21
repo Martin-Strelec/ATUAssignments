@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jemand\\Documents\\_school\\ATUAssignments\\Semester4\\Object_Oriented_Development_(COMP06241)\\Lab1\\Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5704E15-E8CC-449A-A3D0-9AB9DD08C4D3}|Lab1\\Lab1.csproj|c:\\users\\jemand\\documents\\_school\\atuassignments\\semester4\\object_oriented_development_(comp06241)\\lab1\\lab1\\lab1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5704E15-E8CC-449A-A3D0-9AB9DD08C4D3}|Lab1\\Lab1.csproj|solutionrelative:lab1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5704E15-E8CC-449A-A3D0-9AB9DD08C4D3}|Lab1\\Lab1.csproj|c:\\users\\jemand\\documents\\_school\\atuassignments\\semester4\\object_oriented_development_(comp06241)\\lab1\\lab1\\lab1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E5704E15-E8CC-449A-A3D0-9AB9DD08C4D3}|Lab1\\Lab1.csproj|solutionrelative:lab1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jemand\\Documents\\_school\\ATUAssignments\\Semester4\\Object_Oriented_Development_(COMP06241)\\Lab1\\Lab1\\Lab1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Lab1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Jemand\\Documents\\_school\\ATUAssignments\\Semester4\\Object_Oriented_Development_(COMP06241)\\Lab1\\Lab1\\Lab1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Lab1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwHsAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:35:50.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Jemand\\Documents\\_school\\ATUAssignments\\Semester4\\Object_Oriented_Development_(COMP06241)\\Lab1\\Lab1\\Lab1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Lab1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Jemand\\Documents\\_school\\ATUAssignments\\Semester4\\Object_Oriented_Development_(COMP06241)\\Lab1\\Lab1\\Lab1\\MainWindow.xaml",
+              "RelativeToolTip": "Lab1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-20T15:35:38.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

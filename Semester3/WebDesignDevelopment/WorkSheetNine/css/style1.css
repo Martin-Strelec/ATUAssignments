@@ -1,0 +1,26 @@
+@import "./style2.css";
+article h1 {
+  color: blue;
+}
+article h2 {
+  color: blue;
+}
+article p {
+  color: green;
+}
+
+.box1 {
+  border-radius: 10px;
+  height: 100px;
+  width: 200px;
+  border: 2px solid black;
+  margin: 10px;
+}
+
+.box2 {
+  border-radius: 20px;
+  height: 100px;
+  width: 200px;
+  border: 2px solid black;
+  margin: 10px;
+}/*# sourceMappingURL=style1.css.map */

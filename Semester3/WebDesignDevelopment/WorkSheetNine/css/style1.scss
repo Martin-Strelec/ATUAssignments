@@ -1,0 +1,29 @@
+@import "./style2.css";
+$header-color: blue;
+$text-color: green;
+$box-height: 100px;
+$box-width: 200px;
+$box-margin: 10px;
+
+article {
+    h1 {
+        color: $header-color;
+    }
+    h2{
+        color: $header-color;
+    }
+    p {
+        color: $text-color  ;
+    }
+}
+
+@mixin roundybox($radius:5px){
+    border-radius: $radius;
+    height: $box-height;
+    width: $box-width;
+    border: 2px solid  black;
+    margin: $box-margin;
+}
+
+.box1 {@include roundybox(10px)};
+.box2 {@include roundybox(20px)};

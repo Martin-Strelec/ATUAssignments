@@ -1,0 +1,15 @@
+C:\Users\Jemand\Documents\_school\ATUAssignments\Semester4\Object_Oriented_Development_(COMP06241)\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Jemand\Documents\_school\ATUAssignments\Semester4\Object_Oriented_Development_(COMP06241)\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\Jemand\Documents\_school\ATUAssignments\Semester4\Object_Oriented_Development_(COMP06241)\Lab1\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Jemand\Documents\_school\ATUAssignments\Semester4\Object_Oriented_Development_(COMP06241)\Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\Jemand\Documents\_school\ATUAssignments\Semester4\Object_Oriented_Development_(COMP06241)\Lab1\Lab1\Lab1\obj\Debug\MainWindow.g.cs
+C:\Users\Jemand\Documents\_school\ATUAssignments\Semester4\Object_Oriented_Development_(COMP06241)\Lab1\Lab1\Lab1\obj\Debug\App.g.cs
+C:\Users\Jemand\Documents\_school\ATUAssignments\Semester4\Object_Oriented_Development_(COMP06241)\Lab1\Lab1\Lab1\obj\Debug\Lab1_MarkupCompile.cache
+C:\Users\Jemand\Documents\_school\ATUAssignments\Semester4\Object_Oriented_Development_(COMP06241)\Lab1\Lab1\Lab1\obj\Debug\Lab1_MarkupCompile.lref
+C:\Users\Jemand\Documents\_school\ATUAssignments\Semester4\Object_Oriented_Development_(COMP06241)\Lab1\Lab1\Lab1\obj\Debug\MainWindow.baml
+C:\Users\Jemand\Documents\_school\ATUAssignments\Semester4\Object_Oriented_Development_(COMP06241)\Lab1\Lab1\Lab1\obj\Debug\Lab1.g.resources
+C:\Users\Jemand\Documents\_school\ATUAssignments\Semester4\Object_Oriented_Development_(COMP06241)\Lab1\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\Jemand\Documents\_school\ATUAssignments\Semester4\Object_Oriented_Development_(COMP06241)\Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\Jemand\Documents\_school\ATUAssignments\Semester4\Object_Oriented_Development_(COMP06241)\Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Jemand\Documents\_school\ATUAssignments\Semester4\Object_Oriented_Development_(COMP06241)\Lab1\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\Jemand\Documents\_school\ATUAssignments\Semester4\Object_Oriented_Development_(COMP06241)\Lab1\Lab1\Lab1\obj\Debug\Lab1.pdb
