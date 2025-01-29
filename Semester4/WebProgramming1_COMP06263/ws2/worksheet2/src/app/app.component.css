@@ -1,0 +1,9 @@
+.oddrow {
+    background-color: green;
+    padding: 1em;
+}
+
+.evenrow{
+    background-color: grey;
+    padding: 1em;
+}
