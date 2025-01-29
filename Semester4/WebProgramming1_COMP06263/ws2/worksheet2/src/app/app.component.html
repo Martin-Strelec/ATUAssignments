@@ -1,4 +1,4 @@
 <router-outlet>
-      <h1>Hello, {{ title }}</h1>
-      <p *ngFor="let item of thingsToDo">{{ item }}</p>
+      <h1>{{ title }}</h1>
+      <p *ngFor="let item of thingsToDo; let i = index">({{i}}){{ item }}</p>
 <router-outlet />
