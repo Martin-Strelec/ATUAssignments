@@ -9,11 +9,17 @@ import { CommonModule } from '@angular/common';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'To Do';
+  title = 'Week 2 - To Do List';
 
   thingsToDo = [
     "Learn JavaScript",
     "Learn Angular",
     "Learn Redux"
-  ]
+  ];
+
+  thingsCompleted=[];
+
+  summary():string {
+    return `${this.thingsToDo.length} to do / ${this.thingsCompleted.length} done`
+  }
 }

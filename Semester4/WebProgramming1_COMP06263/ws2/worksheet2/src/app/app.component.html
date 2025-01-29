@@ -1,4 +1,12 @@
 <router-outlet>
       <h1>{{ title }}</h1>
-      <p *ngFor="let item of thingsToDo; let i = index">({{i}}){{ item }}</p>
+      <p>{{summary()}}</p>
+      <p *ngFor="
+      let item of thingsToDo; 
+      let i = index
+      let MyOdd = odd;
+      let MyEven = even;"
+      [ngClass]="{ oddrow:MyOdd, evenrow:MyEven}">({{i}}) {{ item }}</p>
+
+      <p *ngIf="thingsCompleted.length==0">Nothing Completed!</p>
 <router-outlet />
